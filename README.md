@@ -51,6 +51,7 @@ Sergey: [GMail](mailto:prototypegamez@gmail.com "Send email to Sergey")
 
 ## Notice for developers
 If you make changes in styles.xml - use the Builder, otherwise pull request will not be accepted.
+Due to its use of the native action bar and its related classes on Ice Cream Sandwich, the library requires that both it and your project are compiled with Android 4.0 or newer. The project also requires that you are compiling with JDK 1.6 in both your editor and any build systems that you may be using.
 
 ## Screenshots
 ![Screenshot 1](https://raw.github.com/ChristopheVersieux/HoloEverywhere/master/website/screen1.png "Screenshot 1")
